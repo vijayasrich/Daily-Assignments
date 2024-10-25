@@ -1,0 +1,32 @@
+[
+  {
+    "BookId": 1,
+    "Title": "1984",
+    "Genre": "Dystopian",
+    "AuthorId": 1
+  },
+  {
+    "BookId": 2,
+    "Title": "Harry Potter",
+    "Genre": "Fantasy",
+    "AuthorId": 2
+  },
+  {
+    "BookId": 3,
+    "Title": "To Kill a Mockingbird",
+    "Genre": "Fiction",
+    "AuthorId": 3
+  },
+  {
+    "BookId": 4,
+    "Title": "The Hobbit",
+    "Genre": "Fantasy",
+    "AuthorId": 4
+  },
+  {
+    "BookId": 5,
+    "Title": "Murder on the Orient Express",
+    "Genre": "Mystery",
+    "AuthorId": 5
+  }
+]

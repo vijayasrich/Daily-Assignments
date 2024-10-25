@@ -1,0 +1,27 @@
+[
+  {
+    "AuthorId": 1,
+    "Name": "George Orwell",
+    "Nationality": "British"
+  },
+  {
+    "AuthorId": 2,
+    "Name": "J.K. Rowling",
+    "Nationality": "British"
+  },
+  {
+    "AuthorId": 3,
+    "Name": "Harper Lee",
+    "Nationality": "American"
+  },
+  {
+    "AuthorId": 4,
+    "Name": "J.R.R. Tolkien",
+    "Nationality": "British"
+  },
+  {
+    "AuthorId": 5,
+    "Name": "Agatha Christie",
+    "Nationality": "British"
+  }
+]
